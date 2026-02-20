@@ -1,1 +1,2 @@
-Descargar sitio web desde shell
+# Descargar sitio web desde shell
+Simpleimplementación del comando *wget*
